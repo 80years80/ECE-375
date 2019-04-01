@@ -1,0 +1,29 @@
+﻿------ Build started: Project: AssemblerApplication1, Configuration: Debug AVR ------
+Build started.
+Project "AssemblerApplication1.asmproj" (default targets):
+Target "PreBuildEvent" skipped, due to false condition; ('$(PreBuildEvent)'!='') was evaluated as (''!='').
+Target "CoreBuild" in file "C:\Program Files (x86)\Atmel\Studio\7.0\Vs\Assembler.targets" from project "C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\lab8_robot\AssemblerApplication1\AssemblerApplication1\AssemblerApplication1.asmproj" (target "Build" depends on it):
+	Task "RunAssemblerTask"
+		C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\avrasm2.exe -fI -o "AssemblerApplication1.hex"  -m "AssemblerApplication1.map"  -l "AssemblerApplication1.lss"  -S "AssemblerApplication1.tmp"  -W+ie -I"C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.1.130\avrasm\inc"  -im128def.inc -d "C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\lab8_robot\AssemblerApplication1\AssemblerApplication1\Debug\AssemblerApplication1.obj"  "C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\lab8_robot\AssemblerApplication1\AssemblerApplication1\main.asm"  -I "C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include" 
+		AVRASM: AVR macro assembler 2.2.6 (build 63 Apr 26 2016 14:42:08)
+		Copyright (C) 1995-2016 ATMEL Corporation
+		[builtin](2): Including file 'C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.1.130\avrasm\inc\m128def.inc'
+		C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\lab8_robot\AssemblerApplication1\AssemblerApplication1\main.asm(16): Including file 'C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.1.130\avrasm\inc\m128def.inc'
+		[builtin](2): Including file 'C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.1.130\avrasm\inc\m128def.inc'
+		C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\lab8_robot\AssemblerApplication1\AssemblerApplication1\main.asm(16): Including file 'C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.1.130\avrasm\inc\m128def.inc'
+		"ATmega128" memory use summary [bytes]:
+		Segment   Begin    End      Code   Data   Used    Size   Use%
+		---------------------------------------------------------------
+		[.cseg] 0x000000 0x000146    200      0    200  131072   0.2%
+		[.dseg] 0x000100 0x000100      0      0      0    4096   0.0%
+		[.eseg] 0x000000 0x000000      0      0      0    4096   0.0%
+		Assembly complete, 0 errors. 0 warnings
+	Done executing task "RunAssemblerTask".
+Done building target "CoreBuild" in project "AssemblerApplication1.asmproj".
+Target "PostBuildEvent" skipped, due to false condition; ('$(PostBuildEvent)' != '') was evaluated as ('' != '').
+Target "Build" in file "C:\Program Files (x86)\Atmel\Studio\7.0\Vs\Avr.common.targets" from project "C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\lab8_robot\AssemblerApplication1\AssemblerApplication1\AssemblerApplication1.asmproj" (entry point):
+Done building target "Build" in project "AssemblerApplication1.asmproj".
+Done building project "AssemblerApplication1.asmproj".
+
+Build succeeded.
+========== Build: 1 succeeded or up-to-date, 0 failed, 0 skipped ==========

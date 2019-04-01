@@ -1,0 +1,54 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\LAB_5\AssemblerApplication1\AssemblerApplication1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.1.130\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\LAB_5\AssemblerApplication1\AssemblerApplication1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.1.130\avrasm\inc\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\LAB_5\AssemblerApplication1\AssemblerApplication1\Debug\AssemblerApplication1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication1.map</FILE>
+  <FILE>AssemblerApplication1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INIT><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\LAB_5\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>48</LINE></INIT>
+  <MAIN><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\LAB_5\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>62</LINE></MAIN>
+  <ADD16><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\LAB_5\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>117</LINE></ADD16>
+  <SUB16><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\LAB_5\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>172</LINE></SUB16>
+  <MUL24><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\LAB_5\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>227</LINE></MUL24>
+  <COMPOUND><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\LAB_5\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>319</LINE></COMPOUND>
+  <DONE><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\LAB_5\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>104</LINE></DONE>
+  <ADD16_OP1><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\LAB_5\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>532</LINE></ADD16_OP1>
+  <ADD16_OP2><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\LAB_5\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>534</LINE></ADD16_OP2>
+  <ADD16_Result><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\LAB_5\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>538</LINE></ADD16_Result>
+  <SUB16_OP1><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\LAB_5\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>550</LINE></SUB16_OP1>
+  <SUB16_OP2><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\LAB_5\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>552</LINE></SUB16_OP2>
+  <SUB16_Result><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\LAB_5\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>555</LINE></SUB16_Result>
+  <MUL24_OP2><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\LAB_5\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>544</LINE></MUL24_OP2>
+  <MUL24_Result><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\LAB_5\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>547</LINE></MUL24_Result>
+  <MUL24_OLOOP><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\LAB_5\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>257</LINE></MUL24_OLOOP>
+  <MUL24_OP1><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\LAB_5\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>542</LINE></MUL24_OP1>
+  <MUL24_ILOOP><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\LAB_5\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>264</LINE></MUL24_ILOOP>
+  <OperandD><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\LAB_5\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>511</LINE></OperandD>
+  <OperandE><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\LAB_5\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>513</LINE></OperandE>
+  <OperandF><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\LAB_5\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>515</LINE></OperandF>
+  <MUL16><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\LAB_5\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>418</LINE></MUL16>
+  <addrB><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\LAB_5\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>525</LINE></addrB>
+  <LAddrP><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\LAB_5\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>526</LINE></LAddrP>
+  <MUL16_OLOOP><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\LAB_5\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>445</LINE></MUL16_OLOOP>
+  <addrA><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\LAB_5\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>524</LINE></addrA>
+  <MUL16_ILOOP><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\LAB_5\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>452</LINE></MUL16_ILOOP>
+  <FUNC><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\LAB_5\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>496</LINE></FUNC>
+ </LABELS>
+</ASSEMBLER_INFO>

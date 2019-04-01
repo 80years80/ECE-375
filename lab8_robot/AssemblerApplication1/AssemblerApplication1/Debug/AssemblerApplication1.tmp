@@ -1,0 +1,47 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\lab8_robot\AssemblerApplication1\AssemblerApplication1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.1.130\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\lab8_robot\AssemblerApplication1\AssemblerApplication1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.1.130\avrasm\inc\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\lab8_robot\AssemblerApplication1\AssemblerApplication1\Debug\AssemblerApplication1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication1.map</FILE>
+  <FILE>AssemblerApplication1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INIT><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\lab8_robot\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>76</LINE></INIT>
+  <HitLeft><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\lab8_robot\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>136</LINE></HitLeft>
+  <HitRight><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\lab8_robot\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>174</LINE></HitRight>
+  <USART_receive><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\lab8_robot\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>237</LINE></USART_receive>
+  <MAIN><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\lab8_robot\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>125</LINE></MAIN>
+  <Wait><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\lab8_robot\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>215</LINE></Wait>
+  <Loop><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\lab8_robot\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>220</LINE></Loop>
+  <OLoop><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\lab8_robot\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>221</LINE></OLoop>
+  <ILoop><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\lab8_robot\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>222</LINE></ILoop>
+  <noFrooze><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\lab8_robot\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>273</LINE></noFrooze>
+  <frooze><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\lab8_robot\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>242</LINE></frooze>
+  <restore><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\lab8_robot\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>270</LINE></restore>
+  <let_live><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\lab8_robot\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>263</LINE></let_live>
+  <let_die><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\lab8_robot\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>260</LINE></let_die>
+  <end><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\lab8_robot\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>352</LINE></end>
+  <send_freeze><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\lab8_robot\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>297</LINE></send_freeze>
+  <take_halt><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\lab8_robot\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>330</LINE></take_halt>
+  <take_MovFwd><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\lab8_robot\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>334</LINE></take_MovFwd>
+  <take_MovBck><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\lab8_robot\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>338</LINE></take_MovBck>
+  <take_right><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\lab8_robot\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>342</LINE></take_right>
+  <take_left><FILE>C:\Users\akbul\Documents\Atmel Studio\7.0\ECE 375\lab8_robot\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>346</LINE></take_left>
+ </LABELS>
+</ASSEMBLER_INFO>
